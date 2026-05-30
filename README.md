@@ -1,3 +1,3 @@
 # videos
 
-## [Lucia Falls] (lucia_falls/)
+## [Lucia Falls](lucia_falls/)
