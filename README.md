@@ -1,8 +1,8 @@
 ---
-title: ""
-hide_title: true
+title: "My Videos"
+description: ""
+date: 2026-05-30
+draft: false
 ---
-
-# My Videos
 
 - ## [Lucia Falls](lucia_falls/)
