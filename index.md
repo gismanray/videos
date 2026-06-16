@@ -7,3 +7,4 @@ tags: [water falls, Lewis River, Clark County]
 ---
 
 - ## [Lucia Falls](lucia_falls/)
+- ## [Historic Columbia River Highway](columbia_river/)
