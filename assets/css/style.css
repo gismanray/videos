@@ -1,5 +1,5 @@
 h1 { text-align:center; color:#000099; }
-/* li { margin-left:2em; } */
-.box { position:reltive; font-family:arial; width:600px; text-align:left; border:1px solid red; }
-a { color:blue; text-decoration:none;}
-a:hover { color:red; }
+a { color:blue; text-decoration:none; }
+a:hover { color:red; }/* li { margin-left:2em; } */
+.box { position:reltive; width:600px; font-family:arial; 
+       text-align:left; border:1px solid red; }
