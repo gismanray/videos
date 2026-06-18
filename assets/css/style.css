@@ -3,6 +3,7 @@ a { color:blue; text-decoration:none; }
 a:hover { color:red; }
 li { line-height:18pt; }
 .box { position:reltive; width:600px; height:480px; 
+       margin-top: 20px;
        font-family:arial; text-align:left; 
        box-shadow: 1px 1px 8px #808080;
        border:1px solid #808080; 
